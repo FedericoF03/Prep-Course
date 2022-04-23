@@ -142,7 +142,7 @@ function esEntero(numero) {
   // De lo contrario, devuelve "false"
   // Pista: Puedes resolver esto usando `Math.floor`
   // Tu código:
-  if (numero ) 
+  if (numero || -numero) 
   {
      return numero % 1 === 0;
   }
