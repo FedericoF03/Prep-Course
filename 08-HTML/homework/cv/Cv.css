@@ -1,0 +1,35 @@
+body
+{
+    border: 1px solid black;
+}
+#Titular
+{
+display: flex;
+align-items: center;
+flex-direction: column;
+justify-content: center;    
+text-decoration:underline;
+color: black;
+}
+.Info_P
+{
+display: flex;
+align-items: center;
+flex-direction: column;
+justify-content: center;
+margin: 1px;
+}
+.Img_Hob
+{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.Img_Hob img
+{
+    border: 1px solid black;    
+    color: black;
+    width: 200px;
+    height: 200px;
+}

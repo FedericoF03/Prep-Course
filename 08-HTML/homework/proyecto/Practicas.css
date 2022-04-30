@@ -1,0 +1,47 @@
+        body
+        {
+            background-image: url(fondos-de-pantalla-para-programadores-CodeWallpaper3-702x336.jpg);
+            background-size: 100%;
+        }
+        
+        .divClass
+       {
+           color: rgb(0, 0, 0);
+           display: flex;
+           flex-direction: column;
+           justify-content: center;
+           align-items: center;
+           flex-wrap: wrap;
+           padding: 5px;
+           margin: 5px;
+
+       }
+       
+       .divClass2
+       {
+           color: rgb(36, 161, 92);
+           display: flex;
+           justify-content: center;
+           align-items: center;
+           flex-wrap: wrap;
+           padding: 10px;
+
+       }
+       .thirdDiv
+       {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        flex-wrap: wrap;
+        margin-bottom: auto;
+       }
+       .thirdDiv img
+       {
+        width: 300px;
+        display: block;
+        padding: 10px;
+        border: 1px solid rgb(0, 0, 0);
+        margin: 10px;
+       }
+
